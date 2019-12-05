@@ -3,4 +3,5 @@ def friend():
   print("Hie...!!")
   
 #if you find stranger then say bye
-  
+def stranger():
+  print ("Bye....")
